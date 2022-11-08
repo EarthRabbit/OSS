@@ -6,3 +6,4 @@
 
 * Github
 * Python Practice
+* Term Project (not completed)
