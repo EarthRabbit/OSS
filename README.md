@@ -8,6 +8,10 @@ Nowadays there are many news and it is **necessary** for us to check today's new
 But we know it is hard to see news everyday because we are all **busy**!!
 In order to resolve this problem, I decided to make a program that scraps web site and analyzes articles' titles.
 
+**References**
+
+BeautifulSoup(https://code.launchpad.net/beautifulsoup/)
+
 **Contents**
 
 At first, we have to make a request to load Website.
@@ -32,10 +36,7 @@ There were too many words to see easily, so I made other scattered one which sho
 As we can see, by changing condition, we could see which topic was the most used among reporters.
 In this graph, we could see that worldcup is popular among people but news always shows who died because of special issues.
 <br><br>
+
 **Conclusion**
 
 We could see which topic was mostly interested by people.
-<br><br>
-**References**
-
-BeautifulSoup(https://code.launchpad.net/beautifulsoup/)
