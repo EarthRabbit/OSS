@@ -20,7 +20,7 @@ What we get from website by request is just a form of text, so we should parse t
 Then we have to check **website address** and **CSS selector**.
 
 <img title="" src="./Images/Check_div_class.png" alt="" data-align="center">
-In order to check these, we should open our DevTools(F12) and check location of CSS selector and tag of elements.
+In order to check these, we should open our **DevTools(F12)** and check location of **CSS selector** and **tag** of elements.
 
 After this process, we finally get titles of articles.
 Then I splited text and counted how many times each word was used.
