@@ -10,7 +10,7 @@ In order to resolve this problem, I decided to make a program that scraps web si
 
 **References**
 
-BeautifulSoup(https://code.launchpad.net/beautifulsoup/)
+**BeautifulSoup**(https://code.launchpad.net/beautifulsoup/)
 
 **Contents**
 
