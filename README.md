@@ -3,11 +3,13 @@
 2022.12 OpenSourceSoftware Term Project by SeokJune Moon
 
 **Introduction**
+
 Nowadays there are many news and it is **necessary** for us to check today's news everyday.
 But we know it is hard to see news everyday because we are all **busy**!!
 In order to resolve this problem, I decided to make a program that scraps web site and analyzes articles' titles.
 
 **Contents**
+
 At first, we have to make a request to load Website.
 What we get from website by request is just a form of text, so we should parse the data. In this point, I used **BeautifulSoup** to solve this problem.
 
@@ -31,7 +33,9 @@ As we can see, by changing condition, we could see which topic was the most used
 In this graph, we could see that worldcup is popular among people but news always shows who died because of special issues.
 
 **Conclusion**
+
 We could see which topic was mostly interested by people.
 
 **References**
+
 BeautifulSoup(https://code.launchpad.net/beautifulsoup/)
