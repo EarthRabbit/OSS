@@ -1,9 +1,9 @@
 # Naver News Title Crawling Program
 
 2022.12 OpenSourceSoftware Term Project by SeokJune Moon
-<br>
+<br><br>
 **Introduction**
-<br>
+<br><br>
 Nowadays 
 
 We should open our DevTools(F12) and check location of CSS selector and tag of elements.
