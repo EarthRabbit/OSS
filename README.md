@@ -1,5 +1,0 @@
-# OSS
-
-*SeokJune Moon*
-
-**OpenSourceSoftware**
