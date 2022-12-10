@@ -9,8 +9,7 @@ In order to resolve this problem, I decided to make a program that scraps web si
 
 **Contents**
 At first, we have to make a request to load Website.
-What we get from website by request is just a form of text, so we should parse the data.
-In this point, I used **BeautifulSoup(https://ko.wikipedia.org/wiki/%EB%B7%B0%ED%8B%B0%ED%92%80_%EC%88%98%ED%94%84_(HTML_%ED%8C%8C%EC%84%9C))** to solve this problem.
+What we get from website by request is just a form of text, so we should parse the data. In this point, I used **BeautifulSoup** to solve this problem.
 
 Then we have to check **website address** and **CSS selector**.
 
